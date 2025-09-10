@@ -435,6 +435,8 @@ readme_content = base64.b64decode(readme_data['content']).decode('utf-8')
 Содержит текст README.md из репозитория пользователя
 В переменной repos_data (все репозитории)
 repos_data = repos_response.json()
+—-10--
+
 
 
 
